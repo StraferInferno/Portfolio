@@ -1,0 +1,181 @@
+body{
+  font-family:Prumo-Slab, Avenir, 'Helvetica Neue', Helvetica, Arial, sans;
+  font-size:16px;
+  background-image: url("http://bgfons.com/upload/wood%20_texture553.jpg");  
+  margin:0px;
+  font-family: 'Open Sans', sans-serif;
+  
+}
+
+#page {
+  width:800px;
+  height:auto;
+  margin:150px auto;
+  padding:20px;
+  background:#F0EAE7;
+  border-radius: 5px;
+  border:2px;
+  -webkit-box-shadow: 8px 8px 6px -3px black;
+  border-top:
+  
+}
+
+#footercss{
+   width:250px;
+  height:auto;
+  margin:100px auto;
+  padding:20px;
+  background:#FFFF19;
+  border-radius: 5px;
+  border:2px;
+   -webkit-box-shadow: 8px 8px 6px -3px black;
+}
+
+
+
+#lioveride
+{
+  padding-left:35px;
+}
+
+ul li
+{
+  /*display:inline;*/
+  padding-left:30px;
+ }
+
+h4
+{
+    align: center;
+}
+
+header
+{
+
+  text-align:center;
+  font-weight:bold;
+}
+
+#icon-buttons
+{
+  display: inline;
+  text-decoration:none;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  text-align: center;
+  -webkit-box-shadow: 0px 2px 0px 0px rgba(0,0,0,0.15);
+  box-shadow: 0px 2px 0px 0px rgba(0,0,0,0.15);
+}
+
+.masthead {
+  padding: 2em 0 12em 0;
+  background-image: url('https://farm3.staticflickr.com/2918/14197785047_216e56d086_b.jpg') ;
+  background-repeat:no-repeat center center fixed;
+  -webkit-background-size: contain;
+   -moz-background-size: contain;
+   -o-background-size: contain;
+      background-size: cover;
+}
+.masthead-heading
+{
+  margin-top: -0.2em;
+  text-align:center;
+}
+
+.masthead-intro{
+  text-align:center;
+  margin-bottom: 0.1em;
+}
+
+section {
+   line-height: 150%;
+}
+
+.bg{
+padding: 20px 0px 100px ;
+}
+
+.card{
+  width:300px;
+  height:auto;
+  margin:120px auto 0 auto;
+  padding:20px;
+  background:#F0EAE7;
+  border-radius: 5px;
+  border:2px;
+   -webkit-box-shadow: 8px 8px 6px -3px black;
+    }
+
+nav {
+
+  margin-bottom: 20px;
+
+}
+
+nav ul {
+
+list-style-type: none;
+margin: 0;
+padding: 0;
+float: right;
+
+}
+
+nav ul li {
+display: inline-block;
+padding: 5px;
+margin: 0 0 0 20px;
+float:left;
+
+
+}
+
+nav ul li a {
+
+  color:#FFF;
+  text-shadow: 1px 1px #242424;
+
+}
+
+.wrap { width: 90%; max-width: 960px;
+margin: 0 auto; }
+
+
+
+h3{
+  text-align:left;
+}
+h3.foot {
+  text-align:center;
+}
+
+
+
+@media only screen and (min-width: 550px) and (max-width: 1000px) { 
+
+
+
+}
+
+
+
+@media only screen and (max-width: 500px) {
+    .masthead-heading {
+        font-size: 3em;
+    }
+}
+
+
+footer ul li 
+{
+
+  display: inline-block;
+}
+
+footer ul 
+{
+  list-style-type: none;
+}
